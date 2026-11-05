@@ -7,7 +7,7 @@ embedding models, SQLite databases, or Chroma indexes in Git.
 ## Release lifecycle
 
 Phentrieve software is released from
-[berntpopp/phentrieve](https://github.com/berntpopp/phentrieve). HPO data is
+[phentrieve/phentrieve](https://github.com/phentrieve/phentrieve). HPO data is
 released here with tags of the form `hpo-vYYYY-MM-DD-rN`.
 
 Each committed JSON file under `releases/` pins:
